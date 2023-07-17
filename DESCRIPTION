@@ -10,8 +10,7 @@ Authors@R: c(
     person("Modelling and Simulation Hub Africa", role = c("cph", "fnd"))
   )
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: 
     fs
