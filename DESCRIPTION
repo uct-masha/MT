@@ -1,0 +1,19 @@
+Package: mt
+Type: Package
+Title: MASHA Tools
+Version: 0.0.1
+Authors@R: c(
+    person("Jared", "Norman", , "jared.norman@uct.ac.za", role = c("cre", "aut"),
+           comment = c(ORCID = "0000-0002-5692-999X")),
+    person("Rachel", "Hounsell", , "rachel.hounsell@uct.ac.za", role = c("aut"),
+           comment = c(ORCID = "0000-0003-1393-4294")),
+    person("Modelling and Simulation Hub Africa", role = c("cph", "fnd"))
+  )
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Imports: 
+    fs
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
