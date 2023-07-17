@@ -1,6 +1,5 @@
 #' Use \pkg{mt} in your project
 #'
-#' @return
 #' @export
 #'
 #' @examples
